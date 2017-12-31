@@ -1,0 +1,11 @@
+[package]
+name = "gotham-routing"
+version = "1.0.0"
+authors = ["Mike Engel <mike@mike-engel.com>"]
+
+[dependencies]
+gotham = "0.1"
+gotham_derive = "0.1"
+hyper = "0.11"
+futures = "0.1"
+mime = "0.3"
